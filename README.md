@@ -2,6 +2,7 @@
 - 👀 I’m interested in Mobile devlopment
 - 🌱 I’m currently learning Flutter
 - 📫 Reach me on insta  : @mahan_atma15
+- Currently in 2nd year at jiit.
 
 <!---
 Kaizoku01/Kaizoku01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
