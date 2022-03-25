@@ -62,10 +62,10 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sarvagya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaizoku01&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
   </p>
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
    <a href="https://github.com/kaizoku01"><img width="60%" alt="Sarvagya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaizoku01&custom_title=Sarvagya%20Saxena%27s%20Contribution%20Graph&theme=react-dark"/></a>
-  <br/>
+  <br/> -->
 
 <br/>
 
