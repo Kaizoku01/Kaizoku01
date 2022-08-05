@@ -1,8 +1,5 @@
 
 <h1 align="center">Namaste , Mein Sarvagya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Mobile+Developer;Hungry for%20learning%20new%20things&center=true&width=500&height=50"></a>
-</p>
 <p align="center">Student at<a href="https://www.jiit.ac.in/" target="_blank"> Jaypee Institute of Information Technology,Noida</a>.<br> I am Hyperactive, always ready to tackle any challenges. I love Mobile development, and working on real-life problems.</p>
 <br>
 
