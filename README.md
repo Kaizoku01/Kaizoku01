@@ -50,21 +50,6 @@
     <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-lightyellow??style=flat&logo=firebase">
 <br/>
 
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sarvagya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaizoku01&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
-  </p>
-
-<!--   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/kaizoku01"><img width="60%" alt="Sarvagya's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=kaizoku01&custom_title=Sarvagya%20Saxena%27s%20Contribution%20Graph&theme=react-dark"/></a>
-  <br/> -->
-
-<br/>
-
 ## 🙋‍♀️ Let's Connect
 <p align="center">
 	<a href="mailto:saxenasarvagya11@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
