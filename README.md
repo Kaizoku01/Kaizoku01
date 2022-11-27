@@ -11,23 +11,31 @@
 <p align="left"> 
   &emsp; 
   <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </a> 
   &emsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   </a> 
   &emsp;
   <a href="https://dart.dev/" target="_blank"> 
-     <img alt="Dart" src="https://img.shields.io/badge/Dart-blue??style=flat&logo=dart">
+     <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
+   </a>
+  &emsp;
+  <a href="https://www.python.org/" target="_blank"> 
+     <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+   </a>
+  &emsp;
+  <a href="https://openjdk.org/" target="_blank"> 
+     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
    </a>
 </p>
 
-### For Development
+### FrameWorks
 <p align="left"> 
   &emsp;
    <a href="https://flutter.dev/" target="_blank">
-    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-blue??style=flat&logo=flutter">
+    <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   </a>
 </p>
 
@@ -38,13 +46,13 @@
  </p> -->
 <!-- <br/> -->
 
-### Databases & Cloud Hosting
+### Database
 <p align="left">
   &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&llogo=mysql&logoColor=white"></a>
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
   <p align="left">
   &emsp;
-    <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-lightyellow??style=flat&logo=firebase">
+    <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds"><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
 <br/>
 
 ## 🙋‍♀️ Let's Connect
