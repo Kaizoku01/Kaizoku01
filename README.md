@@ -50,9 +50,13 @@
 <p align="left">
   &emsp;
     <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <p align="left">
+  <!-- <p align="left"> -->
+	<br/>
   &emsp;
-    <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds"><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black">
+    <a href="https://firebase.google.com/?gclsrc=ds&gclsrc=ds"><img alt="Firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"></a>
+	<br/>
+&emsp;
+    <a href="https://mongodb.com/?gclsrc=ds&gclsrc=ds"><img alt="Mongodb" src="https://img.shields.io/badge/mongodb-ffffff?style=for-the-badge&logo=mongodb&logoColor=green"></a>
 <br/>
 
 ## 🙋‍♀️ Let's Connect
