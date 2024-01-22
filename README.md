@@ -33,6 +33,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-sqaure&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-sqaure&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-sqaure&logo=dart&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=javascript&logoColor=black)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
@@ -45,13 +46,13 @@
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Database
 
-<!-- ![Hive](https://img.shields.io/badge/Hive-FF7A00?style=flat-square&logo=Hive&logoColor=white)
-![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
+<!-- ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
 ![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white) -->
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-sqaure&logo=mysql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-sqaure&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=.flat-square&logo=Firebase&logoColor=white)
 ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=.flat-square&logo=apachehive&logoColor=black)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-sqaure&logo=node.js&logoColor=white)
 <!-- ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white) -->
