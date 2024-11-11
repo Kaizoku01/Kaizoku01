@@ -16,7 +16,7 @@
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
 
-- :school:`Engineering` graduate from [Jaypee institute of information Technology](https://www.jiit.ac.in/) in [Noida,India](https://ev.buaa.edu.cn/)
+<!-- - :school:`Engineering` graduate from [Jaypee institute of information Technology](https://www.jiit.ac.in/) in [Noida,India](https://ev.buaa.edu.cn/)
 <!-- - :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship` -->
 - :technologist: **Deep interest in** `Software Development` **,** `Data Science` **&** `Iot`
 - :boom: You can visit [MY Portfolio](https://portfolio-web-38cc0.web.app/#/) to know more
