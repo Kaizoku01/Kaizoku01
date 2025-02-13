@@ -14,11 +14,11 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px height = 180px></picture>
 
 <!-- - :school:`Engineering` graduate from [Jaypee institute of information Technology](https://www.jiit.ac.in/) in [Noida,India](https://ev.buaa.edu.cn/)
 <!-- - :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship` -->
-- :technologist: **Deep interest in** `Software Development` **,** `Data Science` **&** `Iot`
+- :technologist: **Deep interest in** `Software Development` **,** `Social Engineering` **&** `Internet of Things`
 - :boom: You can visit [MY Portfolio](https://portfolio-web-38cc0.web.app/#/) to know more
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=sarvagya&amp;color=EA4335&amp;style=flat-square)](mailto:saxenasarvagya11@gmail.com)
 <!-- - :nerd_face: Always believe `"You are what you loved"` -->
@@ -26,14 +26,6 @@
 <br>
 
 ## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-sqaure&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-sqaure&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-sqaure&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-sqaure&logo=dart&logoColor=white)
-![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=javascript&logoColor=black)
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 20px>  </picture> Frontend Development
 
@@ -44,6 +36,12 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white) -->
 
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Backend Development
+
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-sqaure&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-passing?logo=flask&color=%2341ACC0)
+
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Database
 
 <!-- ![ApacheSpark](https://img.shields.io/badge/ApacheSpark-E25A1C?style=flat-square&logo=ApacheSpark&logoColor=white)
@@ -51,24 +49,34 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-sqaure&logo=mysql&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-sqaure&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=.flat-square&logo=Firebase&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=.flat-square&logo=apachehive&logoColor=black)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-sqaure&logo=node.js&logoColor=white)
+<!-- ![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=.flat-square&logo=apachehive&logoColor=black) -->
 <!-- ![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=PowerBI&logoColor=white) -->
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
+<!-- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
 
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=.flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=.flat-square&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=.flat-square&logo=Arduino&logoColor=white)
 <!-- ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) -->
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-sqaure&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-sqaure&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-sqaure&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-sqaure&logo=dart&logoColor=white)
+![Javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-sqaure&logo=javascript&logoColor=black)
+
+<!-- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=.flat-square&logo=Visual-Studio-Code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=.flat-square&logo=Jupyter&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=.flat-square&logo=android-studio&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-passing?logo=pycharm&color=%2319523C)
+
+
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
